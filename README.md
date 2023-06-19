@@ -60,8 +60,9 @@ Use your preferred Python IDE or execute the code files directly from the comman
 5️⃣ Learn and contribute:
 Dive into the code, experiment, and enhance your understanding of DSA. Feel free to contribute your own code or suggest improvements through pull requests!
 
-# Description
+<br> </br>
 
+# Description
 Data Structures and Algorithms are the building blocks of efficient programming. They empower you to create optimized solutions, improve performance, and tackle complex problems with ease. 
 
 In this repository, we provide a comprehensive collection of DSA implementations in Python, accompanied by clear explanations and real-world use cases.
