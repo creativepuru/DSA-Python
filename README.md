@@ -21,11 +21,11 @@
 
 # ABOUT
 
-👉🏻 This repository is dedicated to sharing codes and information related to ``` Data Structures and Algorithms (DSA)``` using Python. 
+This repository is dedicated to sharing codes and information related to ``` Data Structures and Algorithms (DSA)``` using Python. 
 
-👉🏻 Whether you're a beginner looking to learn the fundamentals or an experienced programmer seeking to brush up on your skills, this repository aims to provide you with valuable resources to enhance your DSA skills. 
+Whether you're a beginner looking to learn the fundamentals or an experienced programmer seeking to brush up on your skills, this repository aims to provide you with valuable resources to enhance your DSA skills. 
 
-👉🏻 Let's dive into the world of efficient algorithms and data structures together! 💪🚀
+Let's dive into the world of efficient algorithms and data structures together! 💪🚀
 
 ### ✨ What to Expect ✨
 
