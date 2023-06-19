@@ -4,11 +4,13 @@
 
 <div align="center"> 
 
-[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+PYTHON+🐍+BASICS+REPOSITORY+📘)](https://github.com/creativepuru/Python-Basics)
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+DSA+PYTHON+🐍+REPOSITORY+📘)](https://github.com/creativepuru/DSA-Python)
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=1000&pause=1000&multiline=true&width=1500&height=200&lines=📚+This+repository+contains+a+collection+of+codes+related+to+Python+Basics+🐍;🦾+Created+by+me+@creativepuru;📚+This+is+my+very+first+Github+Repository;🚀+I+am+creating+this+Repository+on+April+11+2023+🤓;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=1000&pause=1000&multiline=true&width=1500&height=200&lines=📚+This+repository+contains+a+collection+of+codes+related+to+DSA+in+Python+🐍;🦾+Created+by+me+@creativepuru;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
+
+<!--
 
 # 📚 Table of Contents
 - 🔰 ABOUT
@@ -95,3 +97,5 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
 </b>
+
+-->
