@@ -55,6 +55,7 @@ jupyter notebook
 - Exception Handling
 ### Each notebook contains code examples and explanations of the concepts being covered. I encourage you to experiment with the code and modify it to see what happens 🤓
 
+-->
 
 # 📣 Feedback & Contributions 🤝
 If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
@@ -64,8 +65,6 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - Make your changes and commit them (git commit -am 'Add an awesome feature')
 - Push to the branch (git push origin feature/awesome-feature)
 - Create a pull request
-
--->
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me" /> </h1>
 
