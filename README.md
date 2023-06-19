@@ -22,11 +22,11 @@
 <br> </br>
 
 # ABOUT
-This repository is dedicated to sharing codes and information related to ``` Data Structures and Algorithms (DSA)``` using Python. 
+### This repository is dedicated to sharing codes and information related to ``` Data Structures and Algorithms (DSA)``` using Python. 
 
-Whether you're a beginner looking to learn the fundamentals or an experienced programmer seeking to brush up on your skills, this repository aims to provide you with valuable resources to enhance your DSA skills. 
+### Whether you're a beginner looking to learn the fundamentals or an experienced programmer seeking to brush up on your skills, this repository aims to provide you with valuable resources to enhance your DSA skills. 
 
-Let's dive into the world of efficient algorithms and data structures together! 💪🚀
+### Let's dive into the world of efficient algorithms and data structures together! 💪🚀
 
 ### ✨ What to Expect ✨
 
@@ -97,13 +97,10 @@ git clone https://github.com/your-username/DSA-Python.git
 
 - Join our community of learners, enthusiasts, and experienced programmers. Contribute your own code implementations, share your insights, and engage in discussions to foster a collaborative learning environment.
 
-### 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
-### Happy coding! 🚀💻
-
 <br> </br>
 
 # Feedback & Contributions
-If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
+### If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
 
 - Fork the project
 - Create a new branch (git checkout -b feature/awesome-feature)
@@ -130,6 +127,9 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
 - 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
 - 👨‍💻 Happy coding! 🎉
+
+### 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
+### Happy coding! 🚀💻
 
 <br> </br>
 
