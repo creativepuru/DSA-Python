@@ -23,37 +23,14 @@
 - 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
 
 # 🔰 ABOUT 
-- ✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
-- ✨ If you're interested in learning Python or want to enhance your skills, these resources are perfect for you! 🚀
-- 🤓 Whether you're a beginner or an experienced programmer, these resources will help you enhance your skills and take your coding abilities to the next level. 💪
+
 
 # 👨‍💻 Getting Started 
-- To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
-- You'll also need to have `Jupyter` installed. You can install it using `pip` using below commands :
-```
-pip install jupyter
-```
-- Once you have `Python` and `Jupyter` installed, you can `clone` this repository:
-```
-git clone https://github.com/creativepuru/Python-Basics.git
-```
-- Then, navigate to the directory where the repository was cloned and start Jupyter by using below commands :
-```
-cd <Python-Basics>
-jupyter notebook
-```
-- This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
+
 
 # 🔰 Description
 ### The notebooks in this repository cover the following topics:
-- Variables and data types
-- Control structures (if/else statements, loops)
-- Lists, tuples, and dictionaries
-- Functions
-- Classes and objects
-- File input/output
-- Exception Handling
-### Each notebook contains code examples and explanations of the concepts being covered. I encourage you to experiment with the code and modify it to see what happens 🤓
+
 
 -->
 
@@ -66,18 +43,17 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - Push to the branch (git push origin feature/awesome-feature)
 - Create a pull request
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me" /> </h1>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" /> </h1>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
 
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail") <!-- Email -->
 
 [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
 # 🚀 Let's learn and grow together!
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
-- 💪 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/creativepuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
+- 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
 - 👨‍💻 Happy coding! 🎉
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
