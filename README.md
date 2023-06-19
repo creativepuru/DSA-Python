@@ -25,7 +25,7 @@
 # 👨‍💻 Getting Started 
 
 # 🔰 Description
-### The notebooks in this repository cover the following topics:
+- The notebooks in this repository cover the following topics:
 
 
 # 📣 Feedback & Contributions 🤝
