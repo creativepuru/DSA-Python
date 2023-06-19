@@ -49,6 +49,8 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - Push to the branch (git push origin feature/awesome-feature)
 - Create a pull request
 
+<br> </br>
+
 # Social Links
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" />
@@ -59,16 +61,21 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
+<br> </br>
+
 # Let's learn and grow together
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
 - 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
 - 👨‍💻 Happy coding! 🎉
+
+<br> </br>
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
 # License
 ### My [DSA-Python repository](https://github.com/creativepuru/DSA-Python) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/DSA-Python/blob/main/LICENSE.txt) License. 
 - See [LICENSE](https://github.com/creativepuru/DSA-Python/blob/main/LICENSE.txt) for more information.
+
 <br> </br>
 
 ## SUPPORT MY WORK
