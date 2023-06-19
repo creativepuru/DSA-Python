@@ -10,8 +10,6 @@
 
 [![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=📚+This+repository+contains+a+collection+of+codes+related+to+DSA+in+Python+🐍;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
-<!--
-
 # 📚 Table of Contents
 - 🔰 ABOUT
 - 💻 Getting Started
@@ -32,8 +30,6 @@
 ### The notebooks in this repository cover the following topics:
 
 
--->
-
 # 📣 Feedback & Contributions 🤝
 If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
 
@@ -47,7 +43,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
 
-[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail") <!-- Email -->
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 
 [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
