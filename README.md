@@ -75,11 +75,11 @@ git clone https://github.com/your-username/DSA-Python.git
 <br> </br>
 
 # Description
-✨ Data Structures and Algorithms are the building blocks of efficient programming. They empower you to create optimized solutions, improve performance, and tackle complex problems with ease. 
+### ✨ Data Structures and Algorithms are the building blocks of efficient programming. They empower you to create optimized solutions, improve performance, and tackle complex problems with ease. 
 
-✨ In this repository, we provide a comprehensive collection of DSA implementations in Python, accompanied by clear explanations and real-world use cases.
+### ✨ In this repository, we provide a comprehensive collection of DSA implementations in Python, accompanied by clear explanations and real-world use cases.
 
-👉🏻 Here's what you can expect from this repository:
+### 👉🏻 Here's what you can expect from this repository:
 
 1️⃣ Data Structures :
 
