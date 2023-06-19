@@ -89,7 +89,8 @@ Discover how data structures and algorithms are applied in real-world scenarios.
 
 Join our community of learners, enthusiasts, and experienced programmers. Contribute your own code implementations, share your insights, and engage in discussions to foster a collaborative learning environment.
 
-### 🌟 Let's embark on this exciting journey of mastering DSA with Python! Happy coding! 🚀💻
+### 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
+### Happy coding! 🚀💻
 
 <br> </br>
 
