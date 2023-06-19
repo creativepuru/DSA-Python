@@ -21,11 +21,23 @@
 ### 🤝 [SUPPORT ME 👉🏻 Buy Me a Coffee ☕](#support-me)
 
 # ABOUT
+- WORK
+- IN
+- PROGRESS
+- ...........
 
 # Getting Started
+- WORK
+- IN
+- PROGRESS
+- ...........
 
 # Description
 - The notebooks in this repository cover the following topics:
+- WORK
+- IN
+- PROGRESS
+- ...........
 
 <br> </br>
 
@@ -40,7 +52,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 # Social Links
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" /> </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" />
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
 
