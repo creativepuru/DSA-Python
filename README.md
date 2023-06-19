@@ -48,10 +48,10 @@ Ready to embark on your DSA journey? Follow these simple steps to get started:
 git clone https://github.com/your-username/DSA-Python.git
 ```
 
-2️⃣ Install Python:
+2️⃣ ```Install Python``` :
 Make sure you have Python installed on your machine. Visit python.org to download and install the latest version.
 
-3️⃣ Explore the code:
+3️⃣ ```Explore the code``` :
 Browse through the repository's directories to explore different DSA topics. Each topic contains code files and accompanying explanations.
 
 4️⃣ Run the code:
