@@ -49,6 +49,7 @@ git clone https://github.com/your-username/DSA-Python.git
 ```
 
 2️⃣ ```Install Python``` :
+
 Make sure you have Python installed on your machine. Visit python.org to download and install the latest version.
 
 3️⃣ ```Explore the code``` :
