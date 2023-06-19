@@ -14,10 +14,10 @@
 ### 🔰 [ABOUT](#about)
 ### 💻 [GETTING STARTED](#getting-started)
 ### 🔰 [DESCRIPTION](#description)
-### 📣 [FEEDBACK & CONTRIBUTIONS 🤝](#feedback--contributions)
-### 📲 [Social Links 💻](#social-links)
+### 📣 [CONTRIBUTIONS 🤝](#feedback--contributions)
+### 📲 [SOCIAL LINKS 💻](#social-links)
 ### 📖 [LICENSE](#license)
-### 🤝 [SUPPORT ME 👉🏻 Buy Me a Coffee ☕](#support-me)
+### 👉🏻 [Buy Me a Coffee ☕](#support-me)
 
 # ABOUT
 - WORK
@@ -73,7 +73,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 ## SUPPORT ME
 
-### 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+### 🤝 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 <p align="right">
 <a href="#top">
