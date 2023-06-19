@@ -8,7 +8,7 @@
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=1000&pause=1000&multiline=true&width=1500&height=200&lines=📚+This+repository+contains+a+collection+of+codes+related+to+DSA+in+Python+🐍;🦾+Created+by+me+@creativepuru;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=100&lines=📚+This+repository+contains+a+collection+of+codes+related+to+DSA+in+Python+🐍;🦾+Created+by+me+@creativepuru;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
 <!--
 
