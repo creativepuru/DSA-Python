@@ -17,7 +17,7 @@
 ### 📣 [CONTRIBUTIONS 🤝](#feedback--contributions)
 ### 📲 [SOCIAL LINKS 💻](#social-links)
 ### 📖 [LICENSE](#license)
-### 👉🏻 [Buy Me a Coffee ☕](#support-me)
+### 👉🏻 [BMC ☕](#support-me)
 
 # ABOUT
 - WORK
@@ -73,7 +73,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 ## SUPPORT ME
 
-### 🤝 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+### [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 <p align="right">
 <a href="#top">
