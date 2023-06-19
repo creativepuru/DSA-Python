@@ -17,7 +17,7 @@
 ### 📣 [CONTRIBUTIONS 🤝](#feedback--contributions)
 ### 📲 [SOCIAL LINKS 💻](#social-links)
 ### 📖 [LICENSE](#license)
-### 👉🏻 [BMC ☕](#support-me)
+### 👉🏻 [BMC ☕](#support-my-work)
 
 # ABOUT
 - WORK
@@ -71,7 +71,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - See [LICENSE](https://github.com/creativepuru/DSA-Python/blob/main/LICENSE.txt) for more information.
 <br> </br>
 
-## SUPPORT ME
+## SUPPORT MY WORK
 
 ### [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
