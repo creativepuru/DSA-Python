@@ -126,8 +126,7 @@ git clone https://github.com/your-username/DSA-Python.git
 # Let's learn and grow together
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
 - 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
-
-### 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
+- 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
 ### Happy coding! 🚀💻
 
 <br> </br>
