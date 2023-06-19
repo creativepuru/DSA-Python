@@ -43,24 +43,24 @@ Let's dive into the world of efficient algorithms and data structures together! 
 # Getting Started
 Ready to embark on your DSA journey? Follow these simple steps to get started:
 
-1️⃣ Clone the repository:
+1️⃣ Clone the repository :
 ```
 git clone https://github.com/your-username/DSA-Python.git
 ```
 
-2️⃣ ```Install Python``` :
+2️⃣ Install Python :
 
 Make sure you have Python installed on your machine. Visit python.org to download and install the latest version.
 
-3️⃣ ```Explore the code``` :
+3️⃣ Explore the code :
 
 Browse through the repository's directories to explore different DSA topics. Each topic contains code files and accompanying explanations.
 
-4️⃣ Run the code:
+4️⃣ Run the code :
 
 Use your preferred Python IDE or execute the code files directly from the command line to see the algorithms in action.
 
-5️⃣ Learn and contribute:
+5️⃣ Learn and contribute :
 
 Dive into the code, experiment, and enhance your understanding of DSA. Feel free to contribute your own code or suggest improvements through pull requests!
 
@@ -73,16 +73,20 @@ In this repository, we provide a comprehensive collection of DSA implementations
 
 Here's what you can expect from this repository:
 
-1️⃣ Data Structures:
+1️⃣ Data Structures :
+
 Explore a wide range of data structures such as arrays, linked lists, stacks, queues, trees, heaps, graphs, and more. Each data structure comes with well-documented code and explanations to help you grasp their purpose, operations, and time complexities.
 
-2️⃣ Algorithms:
+2️⃣ Algorithms :
+
 Delve into various algorithms including searching, sorting, traversal, recursion, dynamic programming, and greedy techniques. With our code examples and step-by-step breakdowns, you'll develop a solid understanding of algorithmic problem-solving.
 
-3️⃣ Practical Use Cases:
+3️⃣ Practical Use Cases :
+
 Discover how data structures and algorithms are applied in real-world scenarios. From optimizing search algorithms for large datasets to finding the shortest path in a network, these practical examples will equip you with problem-solving skills applicable to a wide range of domains.
 
-4️⃣ Community Collaboration:
+4️⃣ Community Collaboration :
+
 Join our community of learners, enthusiasts, and experienced programmers. Contribute your own code implementations, share your insights, and engage in discussions to foster a collaborative learning environment.
 
 ### 🌟 Let's embark on this exciting journey of mastering DSA with Python! Happy coding! 🚀💻
