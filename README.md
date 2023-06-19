@@ -71,9 +71,6 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
-[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
-[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-round&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
-[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-round&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
 
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 
