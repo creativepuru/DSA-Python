@@ -65,6 +65,8 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - Push to the branch (git push origin feature/awesome-feature)
 - Create a pull request
 
+-->
+
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me" /> </h1>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")
@@ -86,8 +88,8 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
 # 📖 License
-### My [Python-Basics repository](https://github.com/creativepuru/Python-Basics) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) License. 
-- See [LICENSE](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) for more information.
+### My [DSA-Python repository](https://github.com/creativepuru/DSA-Python) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/DSA-Python/blob/main/LICENSE.txt) License. 
+- See [LICENSE](https://github.com/creativepuru/DSA-Python/blob/main/LICENSE.txt) for more information.
 <br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
@@ -97,5 +99,3 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
 </b>
-
--->
