@@ -126,14 +126,9 @@ git clone https://github.com/your-username/DSA-Python.git
 # Let's learn and grow together
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
 - 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
-- 👨‍💻 Happy coding! 🎉
 
 ### 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
 ### Happy coding! 🚀💻
-
-<br> </br>
-
-### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
 # License
 ### My [DSA-Python repository](https://github.com/creativepuru/DSA-Python) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/DSA-Python/blob/main/LICENSE.txt) License. 
@@ -142,6 +137,8 @@ git clone https://github.com/your-username/DSA-Python.git
 <br> </br>
 
 ## SUPPORT MY WORK
+
+### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
 ### [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
