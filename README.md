@@ -30,13 +30,21 @@ Let's dive into the world of efficient algorithms and data structures together! 
 
 ### ✨ What to Expect ✨
 
-💡 ```Comprehensive code examples``` : Dive into a treasure trove of well-commented code snippets covering various DSA concepts, from linked lists to sorting algorithms.
+💡 ```Comprehensive code examples``` : 
 
-📚 ```In-depth explanations``` : Understand the underlying principles behind each data structure and algorithm with detailed explanations and visualizations.
+Dive into a treasure trove of well-commented code snippets covering various DSA concepts, from linked lists to sorting algorithms.
 
-🌟 ```Real-world applications``` : Discover how DSA concepts are applied in practical scenarios, enabling you to develop efficient solutions for real-world problems.
+📚 ```In-depth explanations``` : 
 
-🌐 ```Collaborative learning``` : Join a vibrant community of learners, where you can share your ideas, ask questions, and collaborate on DSA challenges.
+Understand the underlying principles behind each data structure and algorithm with detailed explanations and visualizations.
+
+🌟 ```Real-world applications``` : 
+
+Discover how DSA concepts are applied in practical scenarios, enabling you to develop efficient solutions for real-world problems.
+
+🌐 ```Collaborative learning``` : 
+
+Join a vibrant community of learners, where you can share your ideas, ask questions, and collaborate on DSA challenges.
 
 <br> </br>
 
