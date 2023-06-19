@@ -16,7 +16,6 @@
 ### 🔰 [DESCRIPTION](#description)
 ### 📣 [FEEDBACK & CONTRIBUTIONS 🤝](#feedback--contributions)
 ### 📲 [Social Links 💻](#social-links)
-### 🚀 [Let's learn and grow together!](#lets-learn-and-grow-together)
 ### 📖 [LICENSE](#license)
 ### 🤝 [SUPPORT ME 👉🏻 Buy Me a Coffee ☕](#support-me)
 
