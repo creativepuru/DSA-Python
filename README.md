@@ -22,9 +22,7 @@
 
 # 🔰 ABOUT 
 
-
 # 👨‍💻 Getting Started 
-
 
 # 🔰 Description
 ### The notebooks in this repository cover the following topics:
