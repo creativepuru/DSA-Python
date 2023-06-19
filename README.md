@@ -77,7 +77,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 # 🚀 Let's learn and grow together!
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
-- 💪 If you're ready to up your DSA (Data Structures & Algorithm) game, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/creativepuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
+- 💪 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/creativepuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
 - 👨‍💻 Happy coding! 🎉
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
